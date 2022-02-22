@@ -1,4 +1,7 @@
-[
+{
+  canvas: {
+    content: {
+      components: [
  
   {
     "type": "list",
@@ -153,3 +156,8 @@
   }
 }
 ]
+    },
+    stored_data: { "key": "value" } //Can be more than one pair 
+  }
+}
+
